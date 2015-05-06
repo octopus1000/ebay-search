@@ -5,6 +5,8 @@ cs571 last assignment. IOS app using ebay and facebook api.
 ##preview
 ![screenshot](/screenshots/ebaySearch.png)
 
+[video](https://youtu.be/32ygGQMxk2U)
+
 ##install
 - config pod (pod install)
 - download facebook sdk and drag into project
